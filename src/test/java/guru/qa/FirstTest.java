@@ -7,12 +7,12 @@ public class FirstTest {
 
     @Test
     void firstTest() {
-        Assertions.assertTrue(13 > 2);
+        Assertions.assertTrue(14 > 2);
     }
     @Test
 
     void secondTest() {
-        Assertions.assertTrue(13 > 1);
+        Assertions.assertTrue(14 > 1);
     }
 
 }
